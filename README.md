@@ -1,4 +1,4 @@
-# Decimal to Binary Calculator
+# Decimal to Binary Calculator with React Native
 
 <p align="center">
   <img alt="License" src="https://i.imgur.com/8awR0Mf.png" height="30%" width="30%" />
